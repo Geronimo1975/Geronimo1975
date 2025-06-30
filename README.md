@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm George,
 
 🚀 **Django & AI Developer** specializing in:
 - 🌐 Interactive Django web applications with modern frontends
