@@ -1,100 +1,32 @@
-# 👋 Hi, I'm George,
+# George-Sebastian · Django & AI Developer
 
-🚀 **Django & AI Developer** specializing in:
-- 🌐 Interactive Django web applications with modern frontends
-- 🤖 AI integrations (RAG systems, chatbots, phone assistants)  
-- ⚡ Automation platforms (Make.com, n8n workflows)
-- 🔧 Production-ready API integrations
+Building production web applications and automation systems in Hamburg, Germany.
+Currently focused on Django/Wagtail platforms, AI-powered features (RAG, agents, Claude API) and n8n workflow automation for B2B companies.
 
-## 🛠️ Tech Stack
-```python
-expertise = {
-    'backend': ['Django', 'PostgreSQL', 'Redis', 'Celery'],
-    'frontend': ['HTML', 'JavaScript', 'Tailwind CSS'],
-    'ai_ml': ['OpenAI API', 'RAG', 'Vector Databases', 'Fine-tuning'],
-    'automation': ['Make.com', 'n8n'],
-    'devops': ['Docker', 'AWS/GCP', 'CI/CD', 'Nginx']
-}
+**Website:** [georgeai.dev](https://georgeai.dev)
 
+## What I work on
 
-🎯 Current Focus
-Building scalable Django applications with AI-powered features and seamless automation integrations.
-📊 GitHub Stats
-Show Image
-Show Image
-🤝 Let's Connect
+- **Web platforms** — Django 5 / Wagtail 6 backends, DRF APIs, Vue 3 and HTMX frontends, Tailwind CSS
+- **AI integrations** — RAG pipelines, chat assistants, document processing, Claude and OpenAI APIs
+- **Automation** — n8n and Make.com workflows, webhooks, monday.com / Odoo / M365 integrations
+- **Operations** — Docker Compose, Nginx, PostgreSQL, Redis, Celery, GitHub Actions, VPS deployments
 
-💼 LinkedIn: [your-linkedin]
-🌐 Portfolio: [your-website]
-📧 Email: contact@yourdomain.com
+## Stack
 
+| Layer | Tools |
+|---|---|
+| Backend | Python, Django, Wagtail, Django REST Framework, FastAPI |
+| Data | PostgreSQL, Redis, Celery, S3-compatible storage |
+| Frontend | Vue 3, HTMX, Tailwind CSS, TypeScript |
+| AI | Claude API, OpenAI API, RAG, vector databases |
+| Automation | n8n, Make.com, GitHub Actions |
+| Infrastructure | Docker, Nginx, Linux VPS, Vercel |
 
-## 3. **Essential First Repositories**
+## Selected public work
 
+- [monday_rotocon](https://github.com/Geronimo1975/monday_rotocon) — typed monday.com client library for Python
+- [n8n-skool](https://github.com/Geronimo1975/n8n-skool) — n8n workflow templates for the AI Space community
+- [claude-code-youtube-starter](https://github.com/Geronimo1975/claude-code-youtube-starter) — CLAUDE.md and YouTube Data API scripts
 
-### Repository #1: `django-htmx-starter`
-
-A production-ready Django + HTMX template with:
-
-Interactive UI components
-Real-time updates
-Form handling patterns
-Mobile-responsive design
-Docker setup
-
-
-### Repository #2: `ai-rag-system`
-
-Complete RAG implementation:
-
-Document ingestion pipeline
-Vector search with embeddings
-Django REST API
-Chat interface
-Performance monitoring
-
-
-### Repository #3: `automation-webhook-manager`
-
-Robust webhook system for Make.com/n8n:
-
-Event routing
-Retry mechanisms
-Data transformation
-Monitoring dashboard
-Rate limiting
-
-
-### Repository
-
-#4: `django-ai-chatbot`
-
-Full-stack chatbot solution:
-
-OpenAI integration
-Conversation management
-WebSocket real-time chat
-Admin interface
-API endpoints
-
-
-## 4. **Repository Best Practices**
-
-Each repo should have:
-README.md (with live demo link)
-requirements.txt / pyproject.toml
-docker-compose.yml
-.env.example
-/docs folder
-/tests folder
-GitHub Actions workflow
-
-## 5. **Professional Commit Strategy**
-
-```bash
-feat: implement HTMX dynamic form validation
-fix: resolve race condition in webhook processing
-docs: add API integration examples
-perf: optimize RAG query response time
-test: add comprehensive chatbot API tests
-Immediate Action Plan:
+Most client and employer projects are private. Ask for a walkthrough via [georgeai.dev](https://georgeai.dev).
