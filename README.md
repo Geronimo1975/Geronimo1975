@@ -25,7 +25,7 @@ Currently focused on Django/Wagtail platforms, AI-powered features (RAG, agents,
 
 ## Selected public work
 
-- [monday_rotocon](https://github.com/Geronimo1975/monday_rotocon) — typed monday.com client library for Python
+- [george-ai-monday-lib](https://github.com/Geronimo1975/george-ai-monday-lib) — typed monday.com client library for Python
 - [n8n-skool](https://github.com/Geronimo1975/n8n-skool) — n8n workflow templates for the AI Space community
 - [claude-code-youtube-starter](https://github.com/Geronimo1975/claude-code-youtube-starter) — CLAUDE.md and YouTube Data API scripts
 
