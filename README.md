@@ -3,7 +3,7 @@
 Building production web applications and automation systems in Hamburg, Germany.
 Currently focused on Django/Wagtail platforms, AI-powered features (RAG, agents, Claude API) and n8n workflow automation for B2B companies.
 
-**Website:** [georgeai.dev](https://georgeai.dev)
+**Website:** [georgeai.dev](https://georgeai.dev) · **LinkedIn:** [george-sebastian-c](https://www.linkedin.com/in/george-sebastian-c-212b7455/)
 
 ## What I work on
 
